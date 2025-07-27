@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "O6RZs7GJKcOL3up6g6Ouhx7A7Hw3nIHVC4Qv0TuZwzs=",
+  "Source": "SkillForge.API",
+  "BasePath": "_content/SkillForge.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

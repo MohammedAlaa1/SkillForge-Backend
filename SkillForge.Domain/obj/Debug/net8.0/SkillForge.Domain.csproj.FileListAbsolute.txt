@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\SkillForge\SkillForge.Domain\bin\Debug\net8.0\SkillForge.Domain.deps.json
+C:\Users\user\source\repos\SkillForge\SkillForge.Domain\bin\Debug\net8.0\SkillForge.Domain.dll
+C:\Users\user\source\repos\SkillForge\SkillForge.Domain\bin\Debug\net8.0\SkillForge.Domain.pdb
+C:\Users\user\source\repos\SkillForge\SkillForge.Domain\obj\Debug\net8.0\SkillForge.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\SkillForge\SkillForge.Domain\obj\Debug\net8.0\SkillForge.Domain.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SkillForge\SkillForge.Domain\obj\Debug\net8.0\SkillForge.Domain.AssemblyInfo.cs
+C:\Users\user\source\repos\SkillForge\SkillForge.Domain\obj\Debug\net8.0\SkillForge.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SkillForge\SkillForge.Domain\obj\Debug\net8.0\SkillForge.Domain.dll
+C:\Users\user\source\repos\SkillForge\SkillForge.Domain\obj\Debug\net8.0\refint\SkillForge.Domain.dll
+C:\Users\user\source\repos\SkillForge\SkillForge.Domain\obj\Debug\net8.0\SkillForge.Domain.pdb
+C:\Users\user\source\repos\SkillForge\SkillForge.Domain\obj\Debug\net8.0\ref\SkillForge.Domain.dll
