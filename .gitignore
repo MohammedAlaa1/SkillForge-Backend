@@ -3,3 +3,19 @@
 ################################################################################
 
 /.vs/SkillForge
+
+# Ignore Visual Studio cache files
+.vs/
+.vscode/
+
+# Ignore build outputs
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.log
+
+# Ignore NuGet packages (optional if using restore)
+*.nupkg
