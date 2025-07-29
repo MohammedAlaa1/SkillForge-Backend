@@ -19,3 +19,11 @@ obj/
 
 # Ignore NuGet packages (optional if using restore)
 *.nupkg
+/SkillForge.Application/obj/Debug/net8.0/SkillForge.Application.AssemblyInfo.cs
+/SkillForge.Application/obj/Debug/net8.0/SkillForge.Application.AssemblyInfoInputs.cache
+/SkillForge.Domain/obj/Debug/net8.0/SkillForge.Domain.AssemblyInfoInputs.cache
+/SkillForge.Domain/obj/Debug/net8.0/SkillForge.Domain.AssemblyInfo.cs
+/SkillForge.Application/obj/Debug/net8.0/SkillForge.Application.AssemblyInfoInputs.cache
+/SkillForge.Application/obj/Debug/net8.0/SkillForge.Application.AssemblyInfo.cs
+/SkillForge.Domain/obj/Debug/net8.0/SkillForge.Domain.AssemblyInfo.cs
+/SkillForge.Domain/obj/Debug/net8.0/SkillForge.Domain.AssemblyInfoInputs.cache
